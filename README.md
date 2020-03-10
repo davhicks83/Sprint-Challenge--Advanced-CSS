@@ -36,14 +36,16 @@ Edit this document to include your answers after each question. Make sure to lea
 REsponsive is fluid and is adapted based upon the size of the screen where as adaptive adjusts at certain breakpoints
 
 2. Describe what it means to be mobile first vs desktop first.
-
+mobile first is created to suit the smallest screen first which ensures a pleasant viewing experince across all devices of all sizes
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
+It allows us to to multiply it to the 10th to make it easier for converting
 
 4. How would you describe preprocessing to someone new to CSS?
+It nests a bunch of elements in one command making it easier to compile
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
-
+My favorit is being able to nest the css.  The most trouble is just learning a new way of doing it from basic css structure.
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
